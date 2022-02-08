@@ -1,0 +1,171 @@
+Id,Name,PersonId,Department,RankName,TotalArticleCount,TotalConfProcCount,TotalGrantCount,TotalGrantDollars,TotalAwardCount,TotalCitationCount,TotalBookCount,TotalPatentCount,Gender,Accuracy_Gender,Total_Samples_Gender
+3910,"DE WECK, OLIVIER L",25387,Aeronautics and Astronautics,Professor,105,155,26,0,4,3324,6,1,male,96,55388
+4035,"SAENZ-OTERO, ALVAR",544443,Aeronautics and Astronautics,Other,17,28,10,0,0,294,2,0,male,97,244
+9900,"AKSAMIJA, AZRA",488064,Architecture,Associate,4,0,0,0,0,0,9,0,female,95,3275
+9910,"GREEN, ELLEN RENEE",488066,Architecture,Professor,4,0,0,0,1,0,1,0,female,97,21763
+10390,"JACOBI, LAUREN",627122,Architecture,Associate,2,0,0,0,2,0,5,0,female,97,25933
+6075,"KNIGHT, TERRY W",61508,Architecture,Professor,6,3,1,0,0,50,0,0,male,79,22131
+10395,"MAZEREEUW, MIHO",627123,Architecture,Associate,6,0,4,0,0,6,0,0,female,88,583
+8560,"MILJACKI, ANA",175841,Architecture,Associate,3,0,0,0,1,0,13,0,female,97,141747
+4575,"NORFORD, LESLIE KEITH",86061,Architecture,Professor,126,24,7,0,0,3353,1,0,male,66,35929
+4250,"SANTOS, ADELE NAUDE",102171,Architecture,Professor,3,0,0,0,3,99,0,0,female,95,4884
+23635,"SINNOKROT, NIDA",919198,Architecture,Assistant,0,0,0,0,0,0,0,0,female,93,2625
+18440,"TIBBITS, SKYLAR",827624,Architecture,Associate,30,2,3,0,4,571,22,7,male,89,6096
+2005,"BOYER, LAURIE ANN",175857,Biological Engineering,Associate,43,0,5,0,2,15667,0,0,female,96,34211
+23920,"WANG, FAN",170896,Brain and Cognitive Sciences,Professor,228,1,5,0,9,8457,0,0,male,63,1956
+8740,"XU, WEIFENG",289767,Brain and Cognitive Sciences,Assistant,43,0,2,0,1,2654,0,0,male,88,40
+7585,"BRUSHETT, FIKILE R",544458,Chemical Engineering,Associate,98,3,11,0,5,2991,4,6,female,80,272
+3310,"BUYUKOZTURK, ORAL",14923,Civil and Environmental Engineering,Professor,79,198,13,0,2,2954,5,8,unknown,0,0
+3060,"BARTUSIAK, MARCIA",544609,Comparative Media Studies/Writing Section,Other,1,0,0,0,5,0,7,0,female,97,14051
+6505,"COSTANZA-CHOCK, SASHA",488107,Comparative Media Studies/Writing Section,Associate,5,3,0,0,1,106,15,0,female,53,10493
+9870,"DIAZ, JUNOT",412371,Comparative Media Studies/Writing Section,Professor,1,0,0,0,16,10,100,0,male,97,60
+10335,"HENDERSHOT, HEATHER JEAN",544606,Comparative Media Studies/Writing Section,Professor,15,0,0,0,4,9,18,0,male,68,110376
+7455,"LIGHTMAN, ALAN PAIGE",544611,Comparative Media Studies/Writing Section,Other,6,0,0,0,5,3,56,0,male,90,49390
+15920,"REICH, BLAIR JUSTIN F",827672,Comparative Media Studies/Writing Section,Assistant,52,24,5,0,0,733,7,0,male,97,45886
+10345,"TAYLOR, TINA LYNN",544608,Comparative Media Studies/Writing Section,Professor,5,2,0,0,0,154,4,0,female,96,50997
+9765,"WANG, JING",412334,Comparative Media Studies/Writing Section,Professor,100,4,0,0,5,5719,4,0,female,75,2534
+4135,"BURCHFIEL, B CLARK",287193,Earth,Other,25,3,14,0,7,3234,8,0,male,96,2588
+18620,"DE WIT, JULIEN",836246,Earth,Assistant,34,1,7,0,0,2184,0,0,male,97,77681
+9485,"DEMANET, LAURENT",370170,Earth,Professor,39,32,10,0,3,2370,0,3,male,97,55808
+4895,"EMANUEL, KERRY ANDREW",287645,Earth,Professor,189,3,43,0,14,12752,13,0,male,93,90298
+8795,"FREY, FREDERICK AUGUST",176391,Earth,Other,30,2,17,0,5,2026,0,0,male,96,8149
+23725,"GAO, XIANG",936765,Earth,Other,33,2,1,0,0,1580,0,0,male,77,750
+6595,"PERRON, JAY TAYLOR",288948,Earth,Professor,74,5,8,0,4,2774,0,0,male,82,59263
+4865,"RAVELA, SAI CZANDER",544474,Earth,Other,18,19,9,0,0,689,3,2,male,86,10205
+3400,"ROYDEN, LEIGH H",81401,Earth,Professor,34,2,5,0,11,3984,2,0,female,62,3893
+4910,"SCHLOSSER, COURTNEY ADAM",919205,Earth,Other,58,1,10,0,1,2534,1,0,male,90,113073
+4200,"VAN DER HILST, ROBERT D",26210,Earth,Professor,95,3,16,0,5,6419,5,0,male,97,156891
+2690,"WISDOM, JACK",98227,Earth,Professor,27,0,5,0,3,1280,2,0,male,97,59917
+7920,"ELLISON, SARA FISHER",544479,Economics,Other,9,0,0,0,2,581,7,0,female,96,155985
+16135,"FUDENBERG, DREW",34875,Economics,Professor,106,1,3,0,7,4697,13,0,male,96,8418
+3715,"NEWEY, WHITNEY K",83855,Economics,Professor,52,0,6,0,6,2153,23,0,female,95,4711
+10430,"SIMSEK, ALP",627135,Economics,Associate,22,0,0,0,5,570,1,0,male,97,6419
+7710,"YILDIZ, MUHAMET",130451,Economics,Professor,31,1,0,0,3,443,1,0,male,96,648
+1100,"AMARASINGHE, SAMAN P",1745,Electrical Engineering and Computer Sciences,Professor,31,65,17,0,3,2748,3,5,male,91,3886
+4335,"GOLDWASSER, SHAFRIRA",46062,Electrical Engineering and Computer Sciences,Professor,12,49,13,0,16,2038,11,1,unknown,0,0
+2150,"KAELBLING, LESLIE P",149514,Electrical Engineering and Computer Sciences,Professor,25,56,23,0,2,1082,8,0,female,81,14894
+1205,"O'REILLY, UNA-MAY",779106,Electrical Engineering and Computer Sciences,Other,22,114,10,0,0,1167,28,2,female,91,11741
+9695,"TENG, EMMA J",412299,Global Studies and Languages Section,Professor,8,0,1,0,4,5,12,0,female,91,44680
+15830,"ASHKENAZI, ADI",836018,,,539,0,0,0,0,18107,0,0,male,92,13011
+4700,"CONRAD, JANET MARIE",176520,Physics,Professor,415,15,17,0,10,32394,0,0,female,97,126965
+15805,"DEMIRAGLI, ZEYNEP",836252,,,817,17,0,0,1,25837,0,0,female,97,20266
+5960,"EDELMAN, ELAZER R",140709,Institute for Medical Engineering and Science (IMES),Professor,329,16,20,0,9,7707,15,21,unknown,0,0
+1260,"FITZGERALD, EUGENE A",38449,Materials Science and Engineering,Professor,332,92,23,0,2,11010,5,32,male,97,9688
+15815,"INNOCENTI, GIAN MICHELE",836518,,,613,5,0,0,0,18768,0,0,male,74,64166
+21335,"LI, JING",856134,Management,Assistant,731,77,1,0,0,22522,0,0,female,75,2534
+21350,"LI, LI EN",836694,,,988,22,0,0,0,19525,0,0,male,50,4832
+15800,"MARINI, ANDREA CARLO",836792,,,885,0,0,0,0,29280,2,0,male,55,196345
+15780,"MIRONOV, CAMELIA MARIA",836835,,,1006,2,0,0,0,42032,0,0,female,97,247572
+17815,"PARK, JI HOON",836967,,,335,50,0,0,0,7915,4,0,male,80,5214
+15285,"ZHANG, WEI",406203,Mathematics,Professor,297,50,2,0,6,9539,2,0,male,73,4003
+9885,"AIYAR, SANA",413077,History Section,Associate,6,0,0,0,0,26,2,0,female,88,9730
+24175,"BROWN, TRISTAN G",1108344,History Section,Assistant,7,0,0,0,3,159,0,0,male,97,7725
+9940,"EKMEKCIOGLU, LERNA",488083,History Section,Associate,5,0,0,0,0,32,3,0,female,87,23
+15145,"HORAN, CALEY D",789748,History Section,Associate,1,0,0,0,1,0,1,0,female,73,132
+23580,"MUTONGI, KENDA",1108328,History Section,Professor,2,0,0,0,6,23,5,0,female,81,162
+15050,"PADILLA, TANALIS",382626,History Section,Associate,8,0,0,0,1,23,4,0,unknown,0,0
+5030,"RITVO, HARRIET",395021,History Section,Professor,46,0,1,0,8,77,23,0,female,96,2000
+24200,"BERSTLER, SAMANTHA ANN",1284914,Linguistics and Philosophy,Assistant,1,0,0,0,0,4,0,0,female,97,59540
+4280,"DEGRAFF, MICHEL ANNE-FREDERIC",28201,Linguistics and Philosophy,Professor,13,0,2,0,1,83,10,0,male,97,68146
+8880,"HASLANGER, SALLY",176509,Linguistics and Philosophy,Professor,19,5,1,0,5,377,33,0,female,97,12522
+8910,"MCGEE, VANN",176516,Linguistics and Philosophy,Professor,8,0,0,0,1,34,12,0,male,74,195
+8905,"RAYO FIERRO, AGUSTIN",176515,Linguistics and Philosophy,Professor,17,0,0,0,3,111,3,0,male,97,10042
+17510,"SCHAPIRO, TAMAR",121684,Linguistics and Philosophy,Associate,9,0,0,0,2,53,3,0,female,88,1027
+10445,"SPENCER, JOHN HAVEN",627144,Linguistics and Philosophy,Associate,11,0,0,0,0,68,2,0,male,96,224954
+7625,"STERIADE, DONCA",124669,Linguistics and Philosophy,Professor,1,3,2,0,1,146,6,0,male,86,7
+4630,"VON FINTEL, KAI",32676,Linguistics and Philosophy,Professor,13,0,0,0,1,323,14,0,male,96,29684
+9650,"ALEXANDRE, SANDY",412270,Literature Section,Associate,6,0,0,0,2,0,3,0,female,78,27089
+14655,"GUBAR, MARAH",145129,Literature Section,Associate,16,0,0,0,2,67,9,0,female,89,349
+9720,"JACKSON, NOEL B",412308,Literature Section,Associate,7,0,0,0,0,12,3,0,male,91,10807
+9705,"RESNICK, MARGERY",412301,Literature Section,Associate,0,0,0,0,0,0,0,0,female,93,127
+1460,"ARAL, SINAN KAYHAN",3529,Management,Professor,47,3,1,0,5,6125,2,0,male,96,29806
+2985,"BRYNJOLFSSON, ERIK",13828,Management,Professor,52,1,3,0,7,1953,27,0,male,96,31753
+8665,"CHEN, HUI",176096,Management,Associate,108,2,0,0,3,2974,0,0,female,52,1684
+23515,"GOLREZAEI, NEGIN",856129,Management,Assistant,14,13,0,0,3,1611,0,0,female,96,854
+6870,"HANLON, MICHELLE",412310,Management,Professor,53,0,0,0,7,4580,4,0,female,97,66957
+14790,"KARPLUS, VALERIE JEAN",779082,Management,Assistant,51,1,2,0,1,1108,5,0,male,67,113201
+15065,"KELLY, ERIN L",476846,Management,Professor,68,0,0,0,2,3087,15,0,female,96,16296
+6090,"KOTHARI, S P",62449,Management,Professor,45,0,0,0,1,5709,0,0,unknown,0,0
+2325,"LEVI, RETSEF",67313,Management,Professor,63,7,6,0,1,1043,1,0,unknown,0,0
+23520,"LU, GUANNAN",856131,Management,Assistant,20,9,0,0,0,218,2,0,male,68,19
+9810,"LUCAS, DEBORAH JEAN",412352,Management,Professor,19,0,0,0,6,239,15,0,male,71,106487
+2980,"ORLIKOWSKI, WANDA J",642089,Management,Professor,32,14,1,0,3,5107,24,0,female,92,5594
+6810,"PAN, JUN",89562,Management,Professor,27,0,0,0,1,2449,1,0,male,88,6829
+2195,"PERAKIS, GEORGIA",91824,Management,Professor,75,6,6,0,4,1322,1,2,female,94,5580
+6315,"REAGANS, RAY",412311,Management,Professor,18,3,2,0,0,1362,5,0,male,94,21658
+8675,"ROSS, JEANNE W",289187,Management,Other,14,0,4,0,1,257,9,0,female,97,8933
+6865,"SHROFF, NEMIT",488091,Management,Associate,28,0,0,0,3,1139,0,0,unknown,0,0
+17330,"THESMAR, DAVID JEAN JOSEPH",827657,Management,Professor,73,0,0,0,2,2378,3,0,male,97,529020
+6990,"WANG, JIANG",93970,Management,Professor,167,2,1,0,3,9429,1,1,male,67,731
+3465,"ZHANG, JUANJUAN",130887,Management,Professor,41,1,0,0,4,3744,1,0,female,80,51
+1655,"ZUCKERMAN SIVAN, EZRA W",173824,Management,Professor,32,10,1,0,1,766,12,0,male,94,3401
+2000,"BERGER LEIGHTON, BONNIE",287114,Mathematics,Professor,173,28,15,0,12,9766,2,1,female,90,6677
+3695,"CHENG, HUNG",20214,Mathematics,Professor,5,0,0,0,0,193,1,0,male,96,4894
+19290,"COLLINS, TRISTAN",787576,Mathematics,Assistant,17,0,3,0,2,57,1,0,male,97,7725
+14860,"DYATLOV, SEMEN",779071,Mathematics,Associate,36,0,1,0,2,355,1,0,male,93,493
+7985,"GOEMANS, MICHEL X",144133,Mathematics,Professor,19,20,13,0,10,945,2,0,male,97,68146
+7360,"MILLER, HAYNES R",156568,Mathematics,Professor,10,1,19,0,2,46,3,0,male,74,38
+23980,"MINZER, DOR",1108345,Mathematics,Assistant,2,8,0,0,4,28,0,0,male,71,457
+19220,"SUN, NIKE",771980,Mathematics,Associate,11,6,1,0,1,175,0,0,male,50,1423
+19020,"XU, CHENYANG",539186,Mathematics,Professor,42,3,3,0,7,238,0,0,male,80,41
+19015,"YUN, ZHIWEI",525312,Mathematics,Professor,27,1,1,0,6,110,3,0,male,90,119
+19090,"ZHAO, YUFEI",842330,Mathematics,Assistant,55,4,3,0,2,2239,0,0,male,69,91
+3570,"CANIZARES, CLAUDE R",135925,Physics,Professor,45,5,69,0,8,1374,0,0,male,89,25621
+5605,"FU, LIANG",544555,Physics,Associate,190,7,3,0,7,22724,0,4,male,82,1287
+3105,"KATSAVOUNIDIS, EROTOKRITOS",64627,Physics,Other,247,3,6,0,1,35479,0,0,male,90,21
+3100,"MAVALVALA, NERGIS",67570,Physics,Professor,270,12,7,0,12,36580,0,0,female,97,756
+5525,"PORKOLAB, MIKLOS",93497,Physics,Other,103,24,13,0,4,2605,0,0,male,97,542
+3365,"CAMPBELL, ANDREA",15331,Political Science,Professor,27,0,1,0,4,482,26,0,female,55,158112
+10270,"CAUGHEY, DEVIN",627168,Political Science,Associate,27,0,0,0,6,467,4,0,male,88,4984
+6325,"CHOUCRI, NAZLI",137033,Political Science,Professor,33,7,2,0,2,146,15,0,female,96,1704
+7980,"FRAVEL, MARIS TAYLOR",142698,Political Science,Professor,22,0,3,0,4,334,2,0,female,56,15456
+14880,"KIM, IN SONG",779085,Political Science,Associate,13,0,2,0,2,158,0,0,male,60,717
+5990,"LAWSON, CHAPPELL",59121,Political Science,Associate,20,0,2,0,1,433,16,0,male,70,10
+14665,"LIEBERMAN, EVAN S",153159,Political Science,Professor,23,0,0,0,5,743,7,0,male,97,11083
+24035,"LIN-GREENBERG, ERIK",1084693,Political Science,Assistant,7,0,0,0,1,10,0,0,male,96,31753
+24145,"MAGAZINNIK, ASYA",1108313,Political Science,Other,3,0,0,0,0,9,0,0,female,96,3071
+9430,"SCHNEIDER, BEN ROSS",289264,Political Science,Professor,23,0,0,0,1,480,24,0,male,96,83802
+8480,"TSAI, LILY L",169526,Political Science,Professor,19,0,0,0,4,526,4,0,female,97,14077
+7395,"VAN EVERA, STEPHEN W",110808,Political Science,Professor,4,0,1,0,0,21,22,0,male,95,55982
+17980,"WHITE, ARIEL R",827648,Political Science,Assistant,11,0,0,0,2,233,0,0,male,74,11496
+2450,"BEN-JOSEPH, ERAN",8272,Urban Studies and Planning,Professor,21,0,1,0,0,580,9,0,male,97,697
+19335,"BUNTEN, DEVIN MICHELLE",825082,Urban Studies and Planning,Assistant,4,0,0,0,0,26,2,0,female,91,71941
+24195,"CROCKETT, KARILYN M",1108352,Urban Studies and Planning,Lecturer,3,0,0,0,0,1,1,0,female,97,33
+23925,"DUARTE DE ARAUJO SILVA, FABIO",1108314,Urban Studies and Planning,Other,63,9,0,0,0,358,10,0,male,97,79902
+6450,"POLENSKE, KAREN R",77036,Urban Studies and Planning,Other,17,1,7,0,3,616,15,0,female,96,51469
+6545,"ZHAO, JINHUA",627170,Urban Studies and Planning,Associate,76,4,2,0,1,713,0,0,female,83,98
+15245,"ZHENG, SIQI",827702,Urban Studies and Planning,Associate,80,5,0,0,1,1649,18,0,female,62,73
+2765,"CONSTANTINE-PATON, MARTHA",22327,,,37,0,11,0,5,3486,1,0,female,97,13361
+23550,"GHOBADI, MANYA",856148,Electrical Engineering and Computer Sciences,Assistant,7,34,4,0,1,673,0,0,female,87,276
+2310,"JAAKKOLA, TOMMI S",50192,Electrical Engineering and Computer Sciences,Professor,35,19,3,0,5,2195,17,2,male,96,1404
+7230,"KAGAL, LALANA S",1108082,Electrical Engineering and Computer Sciences,Other,13,34,5,0,2,913,3,0,female,94,47
+15390,"SHUN, JULIAN",827678,Electrical Engineering and Computer Sciences,Assistant,10,40,2,0,3,773,1,0,male,95,24021
+8605,"SOLLINS, KAREN R",1108086,Electrical Engineering and Computer Sciences,Other,5,9,12,0,2,421,0,0,female,96,51469
+8425,"SURI, TAVNEET",168068,Management,Associate,15,0,1,0,1,826,1,0,male,80,10
+2750,"KOLODZIEJSKI, LESLIE A",70294,Electrical Engineering and Computer Sciences,Professor,22,24,13,0,2,557,1,2,female,81,14894
+8040,"GEHRKE, LEE",176238,Institute for Medical Engineering and Science (IMES),Professor,43,0,13,0,1,2217,0,12,male,82,37625
+23650,"LIAU, JANE-JANE CHEN",287298,Institute for Medical Engineering and Science (IMES),Other,187,8,13,0,0,7751,2,2,male,63,5578
+23640,"BALCELLS-CAMPS, MERCEDES",919213,Institute for Medical Engineering and Science (IMES),Other,34,0,0,0,0,961,0,0,female,96,9867
+16395,"BOSE, SUMAN",836103,,,19,4,1,0,1,1470,0,6,male,75,6301
+19260,"CHENG, CHIA-WEI",836186,,,22,0,1,0,2,1775,0,1,male,56,18
+16315,"CREIXELL MORERA, PAU",836219,,,17,0,1,0,2,728,0,0,male,67,4058
+19270,"JIN, CHENGCHENG",836556,,,16,1,2,0,2,3340,0,1,female,56,62
+16345,"LAU, ALLISON N",836659,,,27,3,1,0,2,1237,0,0,female,95,11270
+23760,"ROOZBEHANI, MARDAVIJ",939629,Electrical Engineering and Computer Sciences,Other,18,42,0,0,0,637,2,0,unknown,0,0
+4535,"MATTHEWS, JUNE L",74882,Physics,Other,14,1,0,0,4,246,0,0,female,80,5834
+16015,"SHANAHAN, PHIALA E",827409,Physics,Assistant,40,9,4,0,2,555,1,0,unknown,0,0
+6755,"SLATYER, TRACY ROBYN",627166,Physics,Associate,64,1,2,0,7,4545,0,0,female,91,22176
+14850,"CISSE, IBRAHIM I",779065,Physics,Associate,25,1,3,0,4,2323,0,0,male,97,93487
+15190,"FAKHRI, NIKTA",789762,Physics,Assistant,18,0,1,0,4,586,0,0,female,94,62
+17680,"BAUER HOSS, CLEMENS",836053,,,20,0,0,0,1,281,0,0,male,95,1333
+17685,"HUNG, YUWEN",836509,,,10,0,0,0,1,276,0,0,female,63,72
+23900,"COOKE, CHATHAN M",1108051,Electrical Engineering and Computer Sciences,Other,8,7,4,0,0,58,0,2,unknown,0,0
+15130,"LIU, LUQIAO",789743,Electrical Engineering and Computer Sciences,Associate,61,3,5,0,5,6899,0,0,unknown,0,0
+17355,"BASTOS, ANDRE M",836050,,,18,2,1,0,1,2660,0,0,male,97,49457
+17960,"FONG, MING-FAI",836349,,,9,1,1,0,1,254,0,1,male,57,826
+7035,"LIM, JAE S",153222,Electrical Engineering and Computer Sciences,Professor,24,17,6,0,1,777,0,32,male,76,1609
+16165,"RAO, SIYUAN",837037,,,13,0,1,0,1,252,0,0,male,71,85
+17515,"WU, MING-RU",837376,,,19,0,1,0,1,427,0,0,male,69,472
+2945,"URBAN, GLEN L",169836,Management,Other,12,0,0,0,9,1224,15,0,male,97,5564
+23505,"VERNER, EMIL",845323,Management,Assistant,8,0,0,0,0,116,0,0,male,97,11768
+15200,"SCHEFFLER, ROBIN W",789764,Science,Associate,18,0,1,0,2,26,1,0,male,75,32295

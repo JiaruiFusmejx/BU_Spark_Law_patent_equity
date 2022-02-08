@@ -1,0 +1,28 @@
+﻿Aeronautics and Astronautics: 8926
+Anthropology: 16113
+Architecture: 8927
+Biological Engineering: 8928
+Biology: 8929
+Brain and Cognitive Sciences: 8930
+Chemical Engineering: 8931
+Chemistry: 8932
+Civil and Environmental Engineering: 8933
+Comparative Media Studies/Writing Program: 16128
+Earth, Atmospheric and Planetary Sciences: 8935
+Economics: 8936
+Electrical Engineering and Computer Sciences: 8937
+Engineering System Divisions: 8938
+Foreign Languages and Literatures: 16105
+Health Sciences and Technology: 8939
+History: 16114
+Linguistics and Philosophy: 8940
+Literature: 16127
+Management: 8941
+Materials Science and Engineering: 8944
+Mathematics: 8943
+Mechanical Engineering: 8944
+Media Arts and Sciences: 8945
+Nuclear Science and Engineering: 8946
+Physics: 8950
+Political Science: 8951
+Urban Studies and Planning: 8954
